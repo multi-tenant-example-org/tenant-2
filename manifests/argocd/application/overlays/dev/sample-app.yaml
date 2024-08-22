@@ -6,7 +6,7 @@ metadata:
 spec:
   destination:
     server: https://kubernetes.default.svc
-  project: sample-app
+  project: tenant-2
   source:
     path: manifest/tennant-2/sample-app/overlays/dev
     repoURL: https://github.com/multi-tenant-example-org/tenant-2.git
