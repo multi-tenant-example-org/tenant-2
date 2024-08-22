@@ -8,6 +8,6 @@ spec:
     server: https://kubernetes.default.svc
   project: tenant-2
   source:
-    path: manifests/tennant-2/sample-app/overlays/dev
+    path: manifests/tenant-2/sample-app/overlays/dev
     repoURL: https://github.com/multi-tenant-example-org/tenant-2.git
     targetRevision: HEAD
